@@ -1,0 +1,13 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+*.auto.tfvars
+*.log
+*.bak
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
