@@ -11,3 +11,6 @@ terraform.tfstate.backup
 Thumbs.db
 *.swp
 *.swo
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
