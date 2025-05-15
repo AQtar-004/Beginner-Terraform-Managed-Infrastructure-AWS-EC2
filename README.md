@@ -53,4 +53,4 @@ terraform destroy -auto-approve
 - Restrict SSH access to specific IPs instead of `0.0.0.0/0`.
 
 ## License
-This project is open-source under the MIT License.
+This project is open-source under the MIT License and licenses.
