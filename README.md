@@ -1,5 +1,5 @@
 # Beginner-Terraform-Managed-Infrastructure-AWS-EC2
-
+ 
 # Terraform-AWS-EC2
 
 This repository contains Terraform configurations to provision a single Linux server on AWS with necessary permissions.
